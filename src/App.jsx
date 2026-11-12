@@ -30,7 +30,6 @@ export default function App() {
       <footer className="footer">
         <div className="container footer-inner">
           <span>© {new Date().getFullYear()} {profile.name}</span>
-          <span className="mono dim">feito com React + Vite</span>
         </div>
       </footer>
     </>

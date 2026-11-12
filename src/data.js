@@ -9,8 +9,8 @@ export const profile = {
   linkedin: 'https://linkedin.com/in/laraalexandralopes',
   github: 'https://github.com/LaraAlexLopes',
   headline:
-    'Automação de testes mobile, web, de API e de performance, estratégia de testes e análise de causa raiz, da interface ao banco de dados, à mensageria e ao código dos serviços.',
-  rotating: ['automação E2E mobile', 'testes de API', 'testes de performance', 'sistemas orientados a eventos', 'análise de causa raiz'],
+    'Testes manuais e automatizados de aplicações mobile, web, de APIs e de performance, estratégia de testes e análise de causa raiz, da interface ao banco de dados, à mensageria e ao código dos serviços.',
+  rotating: ['automação E2E mobile', 'testes manuais e exploratórios', 'testes de API', 'testes de performance', 'sistemas orientados a eventos', 'análise de causa raiz'],
   summary:
     'Atuação em aplicações offline-first e em microsserviços orientados a eventos, com validação do dado efetivamente persistido no banco e publicado na mensageria, e não apenas do que a interface exibe. A análise de causa raiz combina logs, banco de dados, gateway e leitura do código-fonte, e cada defeito encontrado é investigado também em fluxos semelhantes.',
 }
